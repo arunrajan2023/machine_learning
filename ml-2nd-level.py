@@ -1,6 +1,6 @@
 
 #Machine learning code
-#Written by Arun 
+#Written by Arun (Year: 2018)
 #Programming language: Python
 
 import numpy as np
