@@ -21,7 +21,9 @@ Before using this package, ensure the following software/files is installed/avai
 
 ## How to run the script?
 
-You can simply run:
+Assuming that you have the necessary input files (features and the desired property for several materials),
+
+you can simply run:
 
 ```bash
 python ml-2nd-level.py
