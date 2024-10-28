@@ -32,3 +32,8 @@ or
 jupyter-notebook KRR-tune-hyperparam.ipynb
 ```
 
+## Additional Files and Regression Attempts
+The notebook `GBR-85x12-100_50_0.1.ipynb` also has examples on
+- `SupportVectorMachine Regressor` with `GridSearchCV`
+- 'AdaBoostRegressor'
+- 'GradientBoostingRegressor`
