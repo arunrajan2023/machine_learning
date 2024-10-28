@@ -17,7 +17,7 @@ Before using this package, ensure the following software/files is installed/avai
 ## What will the script do
 - Reads X (given features) and y (desired property)
 - Generates primary and compound features (by applying math operations)
-- Uses `LASSO` and `Randon Forrest regressor` to reduce/select important features
+- Uses `LASSO` and `Random Forest regressor` to reduce/select important features
 - Apply techniques such as `linear regression` and `kernel ridge regression` for property prediction
 
 ## How to run the script?
