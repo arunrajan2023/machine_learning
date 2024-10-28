@@ -42,3 +42,9 @@ We can run this notebook by
 ```bash
 jupyter-notebook GBR-85x12-100_50_0.1.ipynb
 ```
+
+## More information
+More details about machine learning based property prediction can be found in our paper: [A. C. Rajan et al. Chem. Mater. 2018](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686).
+
+## License
+&copy; Arun Rajan
