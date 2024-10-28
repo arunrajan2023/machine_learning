@@ -37,3 +37,8 @@ The notebook `GBR-85x12-100_50_0.1.ipynb` also has examples on
 - `SupportVectorMachine Regressor` with `GridSearchCV`
 - `AdaBoostRegressor`
 - `GradientBoostingRegressor`
+  
+We can run this notebook by
+```bash
+jupyter-notebook GBR-85x12-100_50_0.1.ipynb
+```
